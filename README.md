@@ -1,8 +1,12 @@
-关于这个人类
-* 开发的第一动力是“看着难受就要改”
-* 会让命令行、vscode、git、PS等崩溃
-* 不知道为什么不喜欢python
-* 喜欢指针和树、玻色子和奇怪的无机物
+[此世虽逢](nowhere)，难舍[落蔷](somewhat)  
+曾听细雨，未悦风凉  
+挥墨不攘，循过椴梁  
+蚀半烛[刻舟](web/somewhere)，登[无魂之层](project/somewhere)  
+闻[利剑出鞘](bilibili/somewhere)，[飞杨信如棱](zhihu/somewhere)  
+会[饮冰之人](history/somewhere)，魑[忘却之神](scp/somewhere)  
 
-我的日常
-* 被笔电到
+曾舍[航标](pointer)，寄之于[昌](tree)  
+曾乐[梨场](git)，新之于[向](vscode)  
+曾往[天堂](boson)，杂之于[粮](chemical)  
+
+今日万魔已聚，何日为畅，千载佳音，何时以偿
