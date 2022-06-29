@@ -11,3 +11,8 @@
 
 今日万魔已聚，何日为畅，千载佳音，何时以偿  
 千百期许，亡妄涔忘
+
+TODO
+- [ ] 做一个类似于[coq](https://github.com/coq/coq)、[HoTT](https://github.com/HoTT/HoTT/tree/master/theories)、MetaMath但更现代化及全面的系统
+- [ ] 做一个现代化、「LISP化」的沙盒系统
+- [ ] 做一个能用于在世界末日/K级情景正常工作、提供应对方式的系统
