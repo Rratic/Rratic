@@ -13,6 +13,12 @@
 千百期许，亡妄涔忘
 
 TODO
+- [ ] 做一个类似于[JuliaRoadmap](https://github.com/JuliaRoadmap/zh)、[渐构](https://www.modevol.com/)但更相互契合的平台
 - [ ] 做一个类似于[coq](https://github.com/coq/coq)、[HoTT](https://github.com/HoTT/HoTT/tree/master/theories)、MetaMath但更现代化及全面的系统
 - [ ] 做一个现代化、「LISP化」的沙盒系统
 - [ ] 做一个能用于在世界末日/K级情景正常工作、提供应对方式的系统
+
+DOING
+- [JuliaRoadmap](https://github.com/JuliaRoadmap/zh)
+
+DONE
