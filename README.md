@@ -7,10 +7,7 @@
 
 曾舍[航标](pointer)，寄之于[昌](tree)  
 曾乐[梨场](git)，新之于[向](vscode)  
-曾往[天堂](boson)，杂之于[粮](chemical)  
-
-今日万魔已聚，何日为畅，千载佳音，何时以偿  
-千百期许，亡妄涔忘
+曾往[天堂](boson)，杂之于[粮](chemical)
 
 TODO
 - [ ] 做一个类似于[JuliaRoadmap](https://github.com/JuliaRoadmap/zh)、[渐构](https://www.modevol.com/)但更相互契合的平台
